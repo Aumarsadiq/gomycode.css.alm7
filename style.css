@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.hero{
+    background-image: url(WhatsApp\ Image\ 2024-10-16\ at\ 11.09.50_2efdccec.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60rem;  
+    padding: 20px 0 0 0;
+}
+
+.hero h1{
+    text-align: center;
+    color: white;
+}
+
+.hero h3{
+    margin: 100px 0 0 200px !important;
+    color: white;
+    font-size: 25px;
+}
+
+.hero h6{
+    margin: 7px 0 0 200px ;
+    color: white;
+    font-size: 25px;
+}
+
+.hero button{
+    margin: 10px 0 0 202px ;
+    color: #000;
+    font-size: 20px;
+    background-color: #fff;
+    border: none;
+    font-weight: 700;
+    height: 49px;
+    width: 200px;
+    padding: 5px;
+}
+
+.list-items{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 3rem;  
+}
+
+.list-items img{
+    height: 95px;
+    width: 190px;
+    margin: 70px 0 0 0;
+}
+
+
+.list-items h1{
+    font-size: 14px;
+    font-weight: 900 !important;
+    text-align: center;
+}
+
+.list-items h5{
+    font-size: 12px;
+    font-weight: 900;
+    text-align: center;
+}
+
+.best{
+    background-color: rgb(243, 243, 243);
+    height: 275px;
+}
+
+.best img{
+    width: 150px;
+    height: 40px;
+    margin: 20px 0 0 42.5rem;
+}
+
+.best h3, h5{
+    text-align: center;
+}
+
+.made{
+    display: flex;
+    margin: 0 30px;
+}
+
+.made img{
+    width: 500px;
+    margin: 50px;
+}
+
+.made h2, h4{
+    text-align: center;
+    margin: 50px 0 0 300px !important;
+}
+
+.made h2{
+    text-align: center;
+    margin: 100px 0 0 0;
+}
+
+.gear{
+    display: flex;
+    justify-content: space-around;
+}
+
+.gear img{
+    width: 650px;
+    height: 800px;
+    margin-left: 150px;
+}
+
+.gear h2{
+    text-align: center;
+    margin: 185px 0 0 200px;
+}
+
+.gear h4{
+    text-align: center !important;
+    margin: 15px 0 0 180px !important;
+}
+
+.banner{
+    
+}
